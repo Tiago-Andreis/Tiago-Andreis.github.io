@@ -1,3 +1,2 @@
 remote_theme: pages-themes/Minima
-plugins:
-- jekyll-remote-theme
+plugins: - jekyll-remote-theme
