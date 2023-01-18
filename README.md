@@ -7,4 +7,11 @@ olá, tudo certo? eu sou o Tiago e estou cursando engenharia de computação, te
 - C++
 - Postgre SQL
 
-![imagem de anime dormindo](https://media4.giphy.com/media/wkW0maGDN1eSc/giphy.gif?cid=ecf05e473bdwj04c5nrcrmr4rqt0i6ektgfs2p0qykjkxz92&rid=giphy.gif&ct=g)
+Se quiser dar uma olhada nas minhas redes sociais, número de contato ou linkedin:
+
+- Instagram tiago_andreis
+- Linkedin https://www.linkedin.com/in/tiago-andreis/
+- GitHub https://github.com/Tiago-Andreis
+- Contato (41) 997412068
+
+![imagem de anime dormindo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
